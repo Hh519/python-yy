@@ -1,2 +1,4 @@
 # python-yy
-Practice
+#Practice
+# This program prints Hello, world!
+print('Hello, world!')
